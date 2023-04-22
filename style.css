@@ -1,0 +1,12 @@
+body{
+       background-color: black;
+}
+body{
+    font-style: italic;
+}
+div{
+    background-color: hsl(345, 50%, 59%);
+}
+.container{
+    color: aliceblue;
+}
